@@ -52,7 +52,7 @@ Aurelia-Resort-Website/
 ![Contact Section](CONTACT-SECTION.png)
 
 6. CTA Section
-![CTA Section](CTA-SECTIONpng)
+![CTA Section](CTA -SECTIONpng)
 
 # Live Demo
 
