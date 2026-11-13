@@ -27,8 +27,6 @@ Aurelia-Resort-Website/
 ├── script.js
 └── images.jpa
 
-*Note: Update the image folder name above if your actual project uses a different structure.*
-
 # How to Run
 
 1. Clone or download this repository.
@@ -54,7 +52,7 @@ Aurelia-Resort-Website/
 ![Contact Section](CONTACT-SECTION.png)
 
 6. CTA Section
-![CTA Section](CTA.png)
+![CTA Section](CTA-SECTIONpng)
 
 # Live Demo
 
