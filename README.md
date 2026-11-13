@@ -21,13 +21,11 @@ Aurelia Resort is a modern, responsive luxury resort landing page designed to pr
 
 # Project Structure
 
-```text
 Aurelia-Resort-Website/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images.jpa
-```
 
 *Note: Update the image folder name above if your actual project uses a different structure.*
 
@@ -38,9 +36,29 @@ Aurelia-Resort-Website/
 3. Open `index.html` using Live Server.
 4. Explore the Aurelia Resort website.
 
+# Website Preview
+
+1. Home Page
+![Home Page](home-page.png)
+
+2. About Section
+![About Section](about-section.png)
+
+3. Amenities Section
+![Amenities Section](AMENITIES-SECTION.png)
+
+4. Gallery Section
+![Gallery Section](GALLERY-SECTION.png)
+
+5. Contact Section
+![Contact Section](CONTACT-SECTION.png)
+
+6. CTA Section
+![CTA Section](CTA.png)
+
 # Live Demo
 
- https://github.com/bhoomika28lb-bit/Aurelia-Resort-Website/
+https://bhoomika28lb-bit.github.io/Aurelia-Resort-Website/
 
 # Developed With
 
