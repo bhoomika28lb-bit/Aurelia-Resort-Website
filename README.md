@@ -52,12 +52,12 @@ Aurelia-Resort-Website/
 ![Contact Section](CONTACT-SECTION.png)
 
 6. CTA Section
-![CTA Section](CTA -SECTIONpng)
+![CTA Section](CTA -SECTION.png)
 
 # Live Demo
 
 https://bhoomika28lb-bit.github.io/Aurelia-Resort-Website/
 
-# Developed With
+# Developed By
 
-Designed and developed as a Web Developer assignment..
+Designed and developed as part of a Web Developer assignment using HTML, CSS, Bootstrap 5, and JavaScript.
