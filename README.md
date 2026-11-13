@@ -26,7 +26,7 @@ Aurelia-Resort-Website/
 ├── index.html
 ├── style.css
 ├── script.js
-└── images/
+└── images.jpa
 ```
 
 *Note: Update the image folder name above if your actual project uses a different structure.*
